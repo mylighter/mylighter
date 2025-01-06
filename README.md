@@ -1,10 +1,7 @@
 # Self Introduction
-I'm a Chinese student in Grade 8. I sometimes make something to simplify my coding process or learning process in python.
+An amateur developer that have been working on a series of projects, most of which are related to machine learning.
 
-My coding experience in coding is really poor, so if there's something wrong in my program, it's normal. And I will appreciate you if you tell me the problem and help me to solve it.
+Bilibili account: [暮光myl](https://space.bilibili.com/1988351187)
 
-# Programs Building
-Name|Brief Introduction
--|-
-Pygame-tool|A tool to make the use of pygame easier.
-Wrong_Note|A tool to sort out the incorrect question in exams.
+Contact me: 
+- Email | downsalker@qq.com
